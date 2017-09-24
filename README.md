@@ -28,6 +28,7 @@ Introducir al participante en el uso de técnicas estadísticas para el manejo d
 	+ 3.3. Comparacion entre modelos	
 
 <br>
+
 #### **Bibliografía** 
 
 * [Pruebas de significancia estadística](http://www.beta.inegi.org.mx/contenidos/proyectos/enchogares/regulares/enoe/doc/enoe_significancia.pdf)
