@@ -3,7 +3,6 @@
 #### Instituto de Investigaciones Económicas, UNAM
 ##### Julio César Martínez Sánchez 
 ##### _jcms2665@gmail.com_
-
 <br>
 
 #### Objetivo 
@@ -14,14 +13,11 @@ Introducir al participante en el uso de técnicas estadísticas para el manejo d
 #### Descripción 
 
 La ENOE es una encuesta se levanta trimestralmente y tiene la característica de ser _tipo panel_, esto significa que se da seguimiento a la población durante un año y tres meses. Durante este periodo de tiempo se le aplica el mismo cuestionario a los residentes habituales de las viviendas seleccionadas, este seguimiento se puede identificar los cambios sociodemográficos que tiene la población durante este periodo de observación.
-
 <br>
 
 #### Organización 
 
 El taller tiene un enfoque práctico y se compone de dos partes: en la primera se usa *Stata* para describir el esquema de muestreo que tiene la encuesta y se muestra cómo hacer pruebas de hipótesis con los datos de la encuesta; luego, se usa *R* para  unir los diferentes paneles y mostrar el seguimiento que se le puede dar a la población y observar los cambios sociodemográficos.
-
-
 <br>
 
 #### Contenido
@@ -33,17 +29,14 @@ El taller tiene un enfoque práctico y se compone de dos partes: en la primera s
 + 2.Cambios sociodemográficos
 	+ 2.1. Construcción de las secuencias 
 	+ 2.2. Análisis de las secuencias
-
+<br>
 
 #### Material del curso
 
 En la carpeta *Data* se encuentran todas las bases de datos que se utilizarán, tanto aquellas que usan para las pruebas de hipótesis como las que se requieren para la construcción de las secuencias; en *Code* se encuentran tanto el código de _Stata_ como el de _R_; finalmente, en la carpeta *Documents* se encuentra el archivo en Excel que usará para comparar los resultados
-
-
 <br>
 
 #### **Bibliografía** 
-
 
 * [Pruebas de significancia estadística](http://www.beta.inegi.org.mx/contenidos/proyectos/enchogares/regulares/enoe/doc/enoe_significancia.pdf)
 
