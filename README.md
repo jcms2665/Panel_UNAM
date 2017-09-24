@@ -1,15 +1,15 @@
+
 # Análisis del panel de la ENOE
 ##### Instituto de Investigaciones Económicas, UNAM
 ##### Julio César Martínez Sánchez 
 ##### _jcms2665@gmail.com_
 ___
 <br>
-<br>
 
 #### Objetivo 
 
 Introducir al participante en el uso de técnicas estadísticas para el manejo del panel de la Encuesta Nacional de Ocupación y Empleo (ENOE). 
-
+<br>
 #### Contenido
 
 + 1.Esquema de muestreo
@@ -27,7 +27,7 @@ Introducir al participante en el uso de técnicas estadísticas para el manejo d
 	+ 3.2. Muestro Estratificado y por Conglomerados
 	+ 3.3. Comparacion entre modelos	
 
-
+<br>
 #### **Bibliografía** 
 
 * [Pruebas de significancia estadística](http://www.beta.inegi.org.mx/contenidos/proyectos/enchogares/regulares/enoe/doc/enoe_significancia.pdf)
