@@ -1,11 +1,10 @@
 # Análisis del panel de la ENOE
-
-#### Sede
-Instituto de Investigaciones Económicas, UNAM
-
-
-#### Fecha
-25 de septiembre 2017, de 9:00 a 15:00 horas
+##### Instituto de Investigaciones Económicas, UNAM
+##### Julio César Martínez Sánchez 
+##### _jcms2665@gmail.com_
+___
+<br>
+<br>
 
 #### Objetivo 
 
@@ -27,14 +26,6 @@ Introducir al participante en el uso de técnicas estadísticas para el manejo d
 	+ 3.1. Muestro Aleatorio Simple
 	+ 3.2. Muestro Estratificado y por Conglomerados
 	+ 3.3. Comparacion entre modelos	
-
-
-
-#### Imparte 
-
-Julio Cesar Martínez Sánchez
-
-_jcms2665@gmail.com_
 
 
 #### **Bibliografía** 
