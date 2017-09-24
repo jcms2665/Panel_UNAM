@@ -37,7 +37,7 @@ El taller tiene un enfoque práctico y se compone de dos partes: en la primera s
 
 #### Material del curso
 
-
+En la carpeta *Data* se encuentran todas las bases de datos que se utilizarán, tanto aquellas que usan para las pruebas de hipótesis como las que se requieren para la construcción de las secuencias; en *Code* se encuentran tanto el código de _Stata_ como el de _R_; finalmente, en la carpeta *Documents* se encuentra el archivo en Excel que usará para comparar los resultados
 
 
 <br>
