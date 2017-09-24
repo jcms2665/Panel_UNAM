@@ -3,7 +3,7 @@
 #### Instituto de Investigaciones Económicas, UNAM
 ##### Julio César Martínez Sánchez 
 ##### _jcms2665@gmail.com_
-___
+
 <br>
 
 #### Objetivo 
